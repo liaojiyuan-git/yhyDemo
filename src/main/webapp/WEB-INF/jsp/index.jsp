@@ -11,5 +11,8 @@
     <title>Title</title>
 </head>
 <body>
+<script>
+    window.location.href="bookcontent.jsp"
+</script>
 </body>
 </html>

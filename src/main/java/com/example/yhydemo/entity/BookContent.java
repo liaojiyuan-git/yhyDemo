@@ -1,4 +1,4 @@
-package main.java.com.book.bean;
+package com.example.yhydemo.entity;
 
 public class BookContent {
 
